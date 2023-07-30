@@ -1,6 +1,8 @@
 # Mini Database Shell
 This is a simple command-line interface (CLI) based mini database project built using Python. The project aims to provide a basic key-value store database with CRUD (Create, Read, Update, Delete) operations. The database stores data in a structured JSON format, making it easy to manage and query.
 
+Special mention to [@Shriram](https://github.com/Shriram-Gunasekar?tab=repositories) for his valuable contributions to this project.
+
 ## Features
 - Add key-value pairs to the database
 - Retrieve values associated with given keys
